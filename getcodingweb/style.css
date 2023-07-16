@@ -1,0 +1,88 @@
+/* this is a comment */
+
+body { 
+	font-family: Arial, Helvetica, sans-serif; 
+	background-color: #56595a;
+	color: #d5d2cc;
+	}
+	
+h1 { 
+	font-size: 300%;
+	}
+	
+p {
+	font-size: 120%;
+	line-height: 1.5;
+	}
+	
+a {
+	color: #5b7ef0;
+	text-decoration: none;
+	}
+	
+div {
+	border-width: 1px;
+	border-style: dashed;
+	border-color: transparent;
+	border-radius: 25px;
+	}
+	
+.lowercase {
+	text-transform: lowercase;
+	}
+	
+.right {
+	float: right;
+	}
+	
+#container{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+	}
+	
+#main{
+	background-color: #bf6368;
+	padding: 20px;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+	}
+	
+#main img {
+	padding: 20px;
+	}
+	
+#priority{
+	background-color: #d5d2cc;
+	color: #56595a;
+	width: 55%;
+	text-align: center;
+	margin: auto;
+	clear: both;
+	padding: 5px;
+	font-size: 100%;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+	}
+	
+#whyapply{
+	text-align: right;
+	}
+	
+#priority a {
+	color: #6d5e55;
+	}
+	
+#priority a:hover {
+	color: #bc5c64;
+	}
+
+#footer{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	}
+	
+#footer img {
+	margin: 5px;
+	}
